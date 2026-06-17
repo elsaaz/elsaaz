@@ -40,9 +40,9 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=elsadiaz&label=Profile%20Views&color=8aab97&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=elsadiazyamila&label=Profile%20Views&color=8aab97&style=flat-square)
 &nbsp;
-![Followers](https://img.shields.io/github/followers/elsadiaz?label=Followers&style=flat-square&color=a8c4b4)
+![Followers](https://img.shields.io/github/followers/elsadiazyamila?label=Followers&style=flat-square&color=a8c4b4)
 
 </div>
 
