@@ -16,7 +16,7 @@
 
 ![Product Designer](https://img.shields.io/badge/Product%20Designer-E8F0EC?style=for-the-badge&logoColor=5a7a6a)
 &nbsp;
-![Bali, Indonesia](https://img.shields.io/badge/%F0%9F%8C%BF%20Bali%2C%20Indonesia-F5F0E8?style=for-the-badge&logoColor=8a7a6a)
+![Indonesia](https://img.shields.io/badge/%F0%9F%8C%BF%20Bali%2C%20Indonesia-F5F0E8?style=for-the-badge&logoColor=8a7a6a)
 
 </div>
 
@@ -26,13 +26,13 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-5A7A6A?style=flat-square&logo=safari&logoColor=white)](https://elsadiaz.design)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-A8C4B4?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/elsadiaz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-A8C4B4?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elsadiazyamila/)
 &nbsp;
-[![Behance](https://img.shields.io/badge/Behance-B8D0C4?style=flat-square&logo=behance&logoColor=white)](https://behance.net/elsadiaz)
+[![Behance](https://img.shields.io/badge/Behance-B8D0C4?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/elsadiaz7)
 &nbsp;
-[![Dribbble](https://img.shields.io/badge/Dribbble-C4BED0?style=flat-square&logo=dribbble&logoColor=white)](https://dribbble.com/elsadiaz)
+[![Dribbble](https://img.shields.io/badge/Dribbble-C4BED0?style=flat-square&logo=dribbble&logoColor=white)](https://dribbble.com/elsaaz)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-D0C4BE?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@elsadiaz.design)
+[![Email](https://img.shields.io/badge/Email-D0C4BE?style=flat-square&logo=gmail&logoColor=white)](mailto:elsaaz.co@gmail.com)
 
 </div>
 
@@ -666,15 +666,15 @@ OpenTo:
 
 <br />
 
-[![Behance](https://img.shields.io/badge/Behance-A8C4B4?style=flat-square&logo=behance&logoColor=white&labelColor=A8C4B4)](https://behance.net/elsadiaz)
+[![Behance](https://img.shields.io/badge/Behance-A8C4B4?style=flat-square&logo=behance&logoColor=white&labelColor=A8C4B4)](https://www.behance.net/elsadiaz7)
 &nbsp;
-[![Dribbble](https://img.shields.io/badge/Dribbble-C4BED0?style=flat-square&logo=dribbble&logoColor=white&labelColor=C4BED0)](https://dribbble.com/elsadiaz)
+[![Dribbble](https://img.shields.io/badge/Dribbble-C4BED0?style=flat-square&logo=dribbble&logoColor=white&labelColor=C4BED0)](https://dribbble.com/elsaaz)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-A8C4B4?style=flat-square&logo=linkedin&logoColor=white&labelColor=A8C4B4)](https://linkedin.com/in/elsadiaz)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-D0C4BE?style=flat-square&logo=gmail&logoColor=white&labelColor=D0C4BE)](mailto:hello@elsadiaz.design)
+[![Email](https://img.shields.io/badge/Email-D0C4BE?style=flat-square&logo=gmail&logoColor=white&labelColor=D0C4BE)](mailto:elsaaz.co@gmail.com)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-B8C4B8?style=flat-square&logo=github&logoColor=white&labelColor=B8C4B8)](https://github.com/elsadiaz)
+[![GitHub](https://img.shields.io/badge/GitHub-B8C4B8?style=flat-square&logo=github&logoColor=white&labelColor=B8C4B8)](https://github.com/elsaaz)
 
 </div>
 
